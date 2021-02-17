@@ -4,3 +4,27 @@ body {
     padding: 3em 5em;
     font-family: 'Patua One', cursive;
 }
+
+a{
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: #1ca50d;
+    font-size: 1.5em;
+    transition: all .5s;
+}
+
+a:hover{
+    color: #fc0a26;
+}
+
+a:nth-child(2){
+    margin-left: 1.5em;
+}
+
+h2{
+    margin-top: 2em;
+}
+
+h3{
+    margin-top: 1em;
+}
